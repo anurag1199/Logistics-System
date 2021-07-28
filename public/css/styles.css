@@ -1,0 +1,51 @@
+
+body{
+  background-image: url(https://blog.intekfreight-logistics.com/hs-fs/hubfs/supply%20chain%20and%20logistics.jpeg?width=719&name=supply%20chain%20and%20logistics.jpeg);
+}
+header {
+  background-color: #71EFA3;
+  margin: auto -16px;
+  padding: 16px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+header h1 {
+  color: #fff;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+  text-align: center;
+}
+.footer {
+  background-color: #71EFA3;
+  margin: auto -16px;
+  padding: 16px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  height:2.5rem;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 110%;
+}
+
+.footer p {
+  color: #fff;
+  font-family: "McLaren", cursive;
+  font-weight: 200;
+  text-align: center;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+.button{
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #71EFA3;
+}
